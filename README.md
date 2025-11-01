@@ -12,8 +12,7 @@
 ### Steps to run the final-project.ipynb:: ###
 1.​ Open the folder: Project_Code in a code editor
 2.​ Create a virtualenv or install required libraries given in cell-1
-3.​ Enter a test_img path as 'data/raw/DB4_B/102_5.tif' (or any other image from
-the data directory)
+3.​ Enter a test_img path as 'data/raw/DB4_B/102_5.tif' (or any other image from the data directory)
 4.​ Run ALL cells.
 
 ### References: ###
